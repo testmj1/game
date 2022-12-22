@@ -1,0 +1,28 @@
+﻿{
+	"name": "Pong Circle",
+	"short_name": "Pong Circle",
+	"start_url": "index",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"icons": [{
+		"src": "//meta.cdn.bubble.io/f1671626154845x541047300168282940/icon-16.png",
+		"sizes": "16x16",
+		"type": "image/png"
+	}, {
+		"src": "//meta.cdn.bubble.io/f1671626165588x907282927072548500/icon-32.png",
+		"sizes": "32x32",
+		"type": "image/png"
+	}, {
+		"src": "//meta.cdn.bubble.io/f1671626275123x946634634968913000/icon-128.png",
+		"sizes": "128x128",
+		"type": "image/png"
+	}, {
+		"src": "//meta.cdn.bubble.io/f1671626289201x521414167541835800/icon-256.png",
+		"sizes": "144x144",
+		"type": "image/png"
+	}, {
+		"src": "//meta.cdn.bubble.io/f1671626289201x521414167541835800/icon-256.png",
+		"sizes": "256x256",
+		"type": "image/png"
+	}]
+}
